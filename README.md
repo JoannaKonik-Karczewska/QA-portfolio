@@ -30,8 +30,10 @@ Szkolenie Indywidualne tester manualny 30.08.2022
 ## MY BUGS FOR 
 * [nazwa buga](link do buga z google drive)
 * [nazwa buga](link do buga z google drive)
-
 ## MY REPORT
 ## MY REPORT FOR 
 * [Report PDF](Link do raportu PDF)
 * [Report Excell](Link do raportu Excell)
+## MY MINDMAP
+## MY MINDMAP FOR
+* [Report PDF](Link do raportu PDF)
