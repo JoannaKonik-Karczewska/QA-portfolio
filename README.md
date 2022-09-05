@@ -12,9 +12,9 @@
 * SQL
 * SCRUM
 ## CERTIFICATES
-Szkolenie Indywidualne tester manualny 30.08.2022
+* Tester manualny - szkolenie indywidualne
 ## COURSES
-* Szkolenie indywidualne tester manualny - Waldemar Szafraniec
+* 30.08.2022 - Szkolenie indywidualne W. Szafraniec - tester manualny
 ## RECOMENDED BLOGS
 * wyszkolewas.com.pl
 * testerzy.pl
