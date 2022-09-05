@@ -36,4 +36,4 @@ Szkolenie Indywidualne tester manualny 30.08.2022
 * [Report Excell](Link do raportu Excell)
 ## MY MINDMAP
 ## MY MINDMAP FOR
-* [Report PDF](Link do raportu PDF)
+* https://drive.google.com/file/d/15QKc5sE8oCprt1LSJ4_3Yw5NqR3Hqpfz/view?usp=sharing
