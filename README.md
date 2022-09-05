@@ -36,4 +36,4 @@ Szkolenie Indywidualne tester manualny 30.08.2022
 * https://docs.google.com/spreadsheets/d/1pKMm1YYPaw75XNgC7yY1UMwpPGLs-o_1/edit?usp=sharing&ouid=102495179488717236756&rtpof=true&sd=true
 ## MY MINDMAP
 ## MY MINDMAP FOR
-* https://drive.google.com/file/d/15QKc5sE8oCprt1LSJ4_3Yw5NqR3Hqpfz/view?usp=sharing
+* [sklep internetowy bpnito.pl] https://drive.google.com/file/d/15QKc5sE8oCprt1LSJ4_3Yw5NqR3Hqpfz/view?usp=sharing
