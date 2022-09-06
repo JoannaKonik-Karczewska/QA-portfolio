@@ -12,9 +12,9 @@ I like to learn new things. In my professional work I am not afraid of changes. 
 * SQL
 * SCRUM
 ## CERTIFICATES
-* Tester manualny - szkolenie indywidualne
+* QA manual tester - individual course
 ## COURSES
-* 30.08.2022 - Szkolenie indywidualne W. Szafraniec - tester manualny
+* 30.08.2022 - Individual course W. Szafraniec - QA manual tester
 ## GROUPS ON FACEBOOK
 * Tester oprogramowania - wsparcie na starcie
 * Testowanie oprogramowania
