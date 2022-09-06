@@ -15,11 +15,6 @@
 * Tester manualny - szkolenie indywidualne
 ## COURSES
 * 30.08.2022 - Szkolenie indywidualne W. Szafraniec - tester manualny
-## RECOMENDED BLOGS
-* wyszkolewas.com.pl
-* testerzy.pl
-* testuj.pl
-* testITka
 ## GROUPS ON FACEBOOK
 * Tester oprogramowania - wsparcie na starcie
 * Testowanie oprogramowania
