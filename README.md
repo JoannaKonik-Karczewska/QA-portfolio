@@ -1,7 +1,6 @@
 # PORTFOLIO
 ## ABOUT ME
-I LIKE TO KNOW NEW THINGS AND IN MY PROFESSIONAL WORK, I AM NOT AFRAID OF CHANGE. THIS IS THE MAIN REASON THAT I HAD INDIVIDUAL TESTING TRAINING IN THE LAST MONTH AND I WOULD LIKE TO START WORK AS A MANUAL TESTER.
-I HAVE EXPERIENCE IN THE IMPLEMENTATION OF FRONTEND SYSTEMS, IN A CALL CENTER SPECIALIZING IN CUSTOMER SERVICE. IN MY WORK, I FOCUS ON PROVIDING SOLUTIONS THAT LEAD TO INCREASING SATISFACTION WITH THE OFFERED SERVICES / PRODUCTS.
+I like to learn new things. In my professional work I am not afraid of changes. This is the main reason that I had individual QA manual course and I would like to start work as a QA manual tester. I have experience in the implementation of frontend systems in a call center. In my work I focus on providing solutions thatn lead to increasing satisfaction with offered services / products.
 ## TOOLS
 * Jira
 * TestLink
