@@ -9,8 +9,17 @@ I am looking for a job as a manual tester :mag_right: :bug: In my work I focus o
 - [x] Software testing (web & mobile app)
 - [x] Creating test cases
 - [x] Reporting bugs
+- [x] Writing test reports
 - [x] SQL
 - [x] SCRUM
+## SOFT SKILLS
+- [x] Accuracy and precision
+- [x] Analytical skills
+- [x] Liability
+- [x] Complex tasks solving
+- [x] Efficient decision making
+- [x] Very good work organization
+- [x] Building and maintaining relationships
 ## CERTIFICATES
 * QA manual tester - individual course
 ## COURSES
