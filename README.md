@@ -21,7 +21,7 @@ I am looking for a job as a manual tester :mag_right: :bug: In my work I focus o
 - [x] Very good work organization
 - [x] Building and maintaining relationships
 ## CERTIFICATES
-* QA manual tester - individual course
+* [QA manual tester - individual course](https://drive.google.com/file/d/17BJ62wX9C7qqnuFXlXe0rO6wsl8znUlr/view?usp=share_link)
 ## COURSES
 * 30.08.2022 - Individual course W. Szafraniec - QA manual tester
 * 11 - 12.2022 - QA Challenge - DARE IT
