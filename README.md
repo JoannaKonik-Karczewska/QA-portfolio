@@ -28,7 +28,7 @@ I am looking for a job as a manual tester :mag_right: :bug: In my work I focus o
 ## MY TEST CASE EXAMPLES
 ### MY TEST CASE EXAMPLES FOR
 * [Test cases for Scouts Panel based on User Story](https://docs.google.com/spreadsheets/d/1pktYOvva2EH0U7ixQA7B8eZjI_xEWv-k/edit?usp=sharing&ouid=102495179488717236756&rtpof=true&sd=true)
-* [Test cases for polish version Scouts Panel based on *own experience*](https://docs.google.com/spreadsheets/d/1nn6H2g1wuZ40Idh5qz9mLMMYqW_QeTGk/edit?usp=sharing&ouid=102495179488717236756&rtpof=true&sd=true) - Exploratory Testing
+* [Test cases for polish version Scouts Panel based on *own experience*](https://docs.google.com/spreadsheets/d/1nn6H2g1wuZ40Idh5qz9mLMMYqW_QeTGk/edit?usp=sharing&ouid=102495179488717236756&rtpof=true&sd=true) - *Exploratory Testing*
 * [Test cases for e-shop bonito.pl](https://drive.google.com/file/d/1nDdS8oEuV8I2ajxNIv4DovsHT4_c4zj4/view?usp=sharing)
 ## MY BUGS
 ### MY BUGS FOR 
