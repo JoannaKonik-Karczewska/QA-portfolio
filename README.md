@@ -25,9 +25,6 @@ I am looking for a job as a manual tester :mag_right: :bug: In my work I focus o
 ## COURSES
 * 30.08.2022 - Individual course W. Szafraniec - QA manual tester
 * 11 - 12.2022 - QA Challenge - DARE IT
-## GROUPS ON FACEBOOK
-* Tester oprogramowania - wsparcie na starcie
-* Testowanie oprogramowania
 ## MY TEST CASE EXAMPLES
 ### MY TEST CASE EXAMPLES FOR 
 * sklep internetowy bonito.pl https://drive.google.com/file/d/1nDdS8oEuV8I2ajxNIv4DovsHT4_c4zj4/view?usp=sharing
@@ -41,3 +38,6 @@ I am looking for a job as a manual tester :mag_right: :bug: In my work I focus o
 ## MY MINDMAP
 ### MY MINDMAP FOR
 * sklep internetowy bonito.pl https://drive.google.com/file/d/15QKc5sE8oCprt1LSJ4_3Yw5NqR3Hqpfz/view?usp=sharing
+## GROUPS ON FACEBOOK
+* Tester oprogramowania - wsparcie na starcie
+* Testowanie oprogramowania
