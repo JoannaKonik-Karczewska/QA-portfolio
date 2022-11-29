@@ -26,8 +26,9 @@ I am looking for a job as a manual tester :mag_right: :bug: In my work I focus o
 * 30.08.2022 - Individual course W. Szafraniec - QA manual tester
 * 11 - 12.2022 - QA Challenge - DARE IT
 ## MY TEST CASE EXAMPLES
-### MY TEST CASE EXAMPLES FOR 
-* sklep internetowy bonito.pl https://drive.google.com/file/d/1nDdS8oEuV8I2ajxNIv4DovsHT4_c4zj4/view?usp=sharing
+### MY TEST CASE EXAMPLES FOR
+* [Test cases for Scouts Panel based on User Story](https://docs.google.com/spreadsheets/d/1pktYOvva2EH0U7ixQA7B8eZjI_xEWv-k/edit?usp=sharing&ouid=102495179488717236756&rtpof=true&sd=true)
+* [Test cases for e-shop bonito.pl](https://drive.google.com/file/d/1nDdS8oEuV8I2ajxNIv4DovsHT4_c4zj4/view?usp=sharing)
 ## MY BUGS
 ### MY BUGS FOR 
 * [Scouts Panel](https://docs.google.com/spreadsheets/d/1073vGUSzrlxxvDqCOZxLaYZnBjw61Y7Dt4xAeBSQcXA/edit?usp=sharing) ⚽
