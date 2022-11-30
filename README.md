@@ -37,6 +37,7 @@ I am looking for a job as a manual tester :mag_right: :bug: In my work I focus o
 * [e-shop bonito.pl](https://drive.google.com/file/d/1juqcXegV6JJyNMBR2SxIsUyBzOVUeqJc/view?usp=sharing) 📖
 ## MY REPORT
 ### MY REPORT FOR 
+* [Test report for Scouts Panel](https://docs.google.com/document/d/1i9otL6GiEcbY270c3kWJ8xqT8NsKEJnEjCWlTiUwdeo/edit?usp=sharing)
 * [e-shop bonito.pl](https://drive.google.com/file/d/1CVKfxRfpoGZYCqCFSB6CmJ1NoSrTgv4z/view?usp=sharing)
 * [e-shop bonito.pl](https://docs.google.com/spreadsheets/d/1pKMm1YYPaw75XNgC7yY1UMwpPGLs-o_1/edit?usp=sharing&ouid=102495179488717236756&rtpof=true&sd=true)
 ## MY MINDMAP
