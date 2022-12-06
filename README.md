@@ -49,7 +49,7 @@ I am looking for a job as a manual tester :mag_right: :bug: In my work I focus o
 
 * [Test results for Scout Panel](https://docs.google.com/spreadsheets/d/14bi1fve6uSGn19nEu3hWufCq5hRbhJiamhDKv2YWibU/edit?usp=sharing)
 
-* [Test report for Scouts Panel](https://docs.google.com/document/d/1i9otL6GiEcbY270c3kWJ8xqT8NsKEJnEjCWlTiUwdeo/edit?usp=sharing
+* [Test report for Scouts Panel](https://docs.google.com/document/d/1i9otL6GiEcbY270c3kWJ8xqT8NsKEJnEjCWlTiUwdeo/edit?usp=sharing)
 
 * [e-shop bonito.pl](https://drive.google.com/file/d/1CVKfxRfpoGZYCqCFSB6CmJ1NoSrTgv4z/view?usp=sharing)
 
