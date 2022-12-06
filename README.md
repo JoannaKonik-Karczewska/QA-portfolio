@@ -32,19 +32,27 @@ I am looking for a job as a manual tester :mag_right: :bug: In my work I focus o
 ## MY TEST CASE EXAMPLES :page_facing_up:
 ### MY TEST CASE EXAMPLES FOR
 ⚽ [Test cases for Scouts Panel based on User Story](https://docs.google.com/spreadsheets/d/1pktYOvva2EH0U7ixQA7B8eZjI_xEWv-k/edit?usp=sharing&ouid=102495179488717236756&rtpof=true&sd=true)
+
 ⚽ [Test cases for polish version Scouts Panel based on *own experience*](https://docs.google.com/spreadsheets/d/1nn6H2g1wuZ40Idh5qz9mLMMYqW_QeTGk/edit?usp=sharing&ouid=102495179488717236756&rtpof=true&sd=true) - *Exploratory Testing*
+
 🍎 [Test cases for PICK IT UP App](https://docs.google.com/spreadsheets/d/1k-rQZWu_euDSkjHRWvZbLn16pgFtxCoe/edit?usp=sharing&ouid=102495179488717236756&rtpof=true&sd=true)
-📖 [Test cases for e-shop bonito.pl](https://drive.google.com/file/d/1nDdS8oEuV8I2ajxNIv4DovsHT4_c4zj4/view?usp=sharing)
+
 ## MY BUGS :bug:
 ### MY BUGS FOR 
-⚽ [Scouts Panel](https://docs.google.com/spreadsheets/d/1073vGUSzrlxxvDqCOZxLaYZnBjw61Y7Dt4xAeBSQcXA/edit?usp=sharing) 
-🙏 [FOCUSLY APP](https://docs.google.com/spreadsheets/d/1OTbKdH6J0KUXovK25_keQevShC6WpW79u7h-hneiXs8/edit?usp=sharing) 
-📖 [e-shop bonito.pl](https://drive.google.com/file/d/1juqcXegV6JJyNMBR2SxIsUyBzOVUeqJc/view?usp=sharing) 
+⚽ [Scouts Panel](https://docs.google.com/spreadsheets/d/1073vGUSzrlxxvDqCOZxLaYZnBjw61Y7Dt4xAeBSQcXA/edit?usp=sharing)
+
+🙏 [FOCUSLY APP](https://docs.google.com/spreadsheets/d/1OTbKdH6J0KUXovK25_keQevShC6WpW79u7h-hneiXs8/edit?usp=sharing)
+
+📖 [e-shop bonito.pl](https://drive.google.com/file/d/1juqcXegV6JJyNMBR2SxIsUyBzOVUeqJc/view?usp=sharing)
+
 ## MY REPORT :clipboard:
 ### MY REPORT FOR 
 ⚽ [Test report for Scouts Panel](https://docs.google.com/document/d/1i9otL6GiEcbY270c3kWJ8xqT8NsKEJnEjCWlTiUwdeo/edit?usp=sharing)
+
 📖 [e-shop bonito.pl](https://drive.google.com/file/d/1CVKfxRfpoGZYCqCFSB6CmJ1NoSrTgv4z/view?usp=sharing)
+
 📖 [e-shop bonito.pl](https://docs.google.com/spreadsheets/d/1pKMm1YYPaw75XNgC7yY1UMwpPGLs-o_1/edit?usp=sharing&ouid=102495179488717236756&rtpof=true&sd=true)
+
 ## MY MINDMAP
 ### MY MINDMAP FOR
 📖 [e-shop bonito.pl](https://drive.google.com/file/d/15QKc5sE8oCprt1LSJ4_3Yw5NqR3Hqpfz/view?usp=sharing)
