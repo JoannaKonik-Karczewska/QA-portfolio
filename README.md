@@ -7,6 +7,7 @@ I am looking for a job as a manual tester :mag_right: :bug: In my work I focus o
 ## TOOLS
 - [x] Jira
 - [x] TestLink
+- [x] MantisBT
 - [x] GitHub
 ## TECH SKIILS
 - [x] Software testing (web & mobile app)
