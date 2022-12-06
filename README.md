@@ -57,7 +57,10 @@ I am looking for a job as a manual tester :mag_right: :bug: In my work I focus o
 
 ## OTHER
 #### MY MINDMAP FOR
-📖 [e-shop bonito.pl](https://drive.google.com/file/d/15QKc5sE8oCprt1LSJ4_3Yw5NqR3Hqpfz/view?usp=sharing)
+* [e-shop bonito.pl](https://drive.google.com/file/d/15QKc5sE8oCprt1LSJ4_3Yw5NqR3Hqpfz/view?usp=sharing)
+
+#### ABOUT FOCUSLY APP
+* [FOCUSLY APP](https://docs.google.com/document/d/1SJodP3tiMKRbOFYyZUMap0_jajzQr2VYZr6xEJj_gr8/edit?usp=sharing)
 ## GROUPS ON FACEBOOK
 * Tester oprogramowania - wsparcie na starcie
 * Testowanie oprogramowania
