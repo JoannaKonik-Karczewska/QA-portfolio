@@ -2,7 +2,7 @@
 ## ABOUT ME
 I am looking for a job as a manual tester :mag_right: :bug: In my work I focus on delivering solutions that lead to the enhancement of satisfaction with offered service/products. In my professional career the main pillars of my work are perfectionism, attention to detail and precision. I have analytical skills. I can work in a team and communicate on a high and effective level. I am experienced in frontend system implementation in call center that specialize in customer care.
 #### MY CV [*polish*](https://drive.google.com/file/d/1elAQlbcxUQcUetfsdC4s9OqtNXqUNGZH/view?usp=share_link) *&* [*english*](https://drive.google.com/file/d/1YxBOrRkVxlLRf2zsKugiUWFe7413ZeAs/view?usp=share_link)
-#### MY LinkedIn [*profile*](www.linkedin.com/in/joanna-konik-karczewska-1921a924b)
+#### MY LinkedIn [*profile*](https://www.linkedin.com/in/joanna-konik-karczewska-1921a924b)
 
 ## TOOLS
 - [x] Jira
